@@ -7,6 +7,6 @@ This is a webpage that asks the user for their email and height and sends the us
 
 Website is hosted [here](http://yuhboichin.pythonanywhere.com/)
 
-[webpage](Screenshots/Screenshot1.png)
-[success](Screenshots/Screenshot2.png)
-[email](Screenshots/Screenshot3.png)
+![webpage](Screenshots/Screenshot1.png)
+![success](Screenshots/Screenshot2.png)
+![email](Screenshots/Screenshot3.png)
