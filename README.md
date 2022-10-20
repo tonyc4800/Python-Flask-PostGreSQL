@@ -4,7 +4,7 @@ This is a webpage that asks the user for their email and height and sends the us
 The main objective was to excercise the use of Flask, PostGreSql, classes within Python. Also practiced basic html and css within the templates and static folders.
 
 ### NOTE:
-- A virtual python environment was used to work with a "fresh" install of python before installing Flask. The virtual folder was not included in the repository
+- A virtual python environment was used to work with a "fresh" install of python before installing Flask. The virtual folder is not included in the repository
 - Height is assumed to be in cm.
 
 Website is hosted [here](http://yuhboichin.pythonanywhere.com/)
